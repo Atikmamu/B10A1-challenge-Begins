@@ -1,0 +1,69 @@
+/* banner styles */
+.banner {
+    background-image: url("../assets/Hero-bg.png");
+}
+
+.banner-title {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.banner-profile-pic {
+    text-align: center;
+
+}
+
+main section {
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.inspiration h1 {
+    width: 852px;
+    height: 39px
+}
+
+
+.h1 .inspiration {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.text {
+    width: 548px;
+    height: 57px;
+}
+
+.submit {
+    width: 120px;
+    height: 58px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+/* skills section styles */
+.skills-contariner {
+    display: flex;
+    gap: 24px;
+}
+
+.skill {
+    padding: 40px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.html-skill{
+    background-color: red;
+}
+.handshake-bg {
+    height: 314px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+}
