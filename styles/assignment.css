@@ -107,3 +107,14 @@ main section {
     background-position: center;
     display: block;
 }
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 150px;
+    background-color: #0D132108;
+}
+
+.social{
+   
+}
